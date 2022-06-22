@@ -1,5 +1,5 @@
 # **[OpenSpeedTest™️](https://openspeedtest.com)** -  Pure HTML5 Network Performance Estimation Tool.
-## Helm Chart for **[OpenSpeedTest](https://openspeedtest.com)**
+## Helm Chart  **[OpenSpeedTest-Server](https://hub.docker.com/u/openspeedtest)**
 
 ````
 helm repo add speedtest https://openspeedtest.github.io/Helm-chart/
