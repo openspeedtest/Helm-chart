@@ -1,0 +1,17 @@
+apiVersion: v2
+appVersion: 1.16.0
+description: SpeedTest by OpenSpeedTest
+home: https://openspeedtest.com/
+icon: https://raw.githubusercontent.com/openspeedtest/Speed-Test/main/assets/images/icons/android-chrome-512x512.png
+keywords:
+- speedtest
+- speed test
+- openspeedtest
+maintainers:
+- email: support@openspeedtest.com
+  name: OpenSpeedTest™️
+name: openspeedtest
+sources:
+- https://github.com/openspeedtest/Helm-chart
+type: application
+version: 0.1.0
