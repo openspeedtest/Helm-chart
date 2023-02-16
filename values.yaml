@@ -38,6 +38,7 @@ securityContext: {}
 
 service:
   type: LoadBalancer
+  #loadBalancerIP: 10.10.10.10
   port: 3000
 
 ingress:
