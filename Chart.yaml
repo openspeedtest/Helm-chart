@@ -14,4 +14,4 @@ name: openspeedtest
 sources:
 - https://github.com/openspeedtest/Helm-chart
 type: application
-version: 0.1.0
+version: 0.1.1

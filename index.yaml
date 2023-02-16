@@ -3,6 +3,27 @@ entries:
   openspeedtest:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-02-16T16:23:28.20235+05:30"
+    description: SpeedTest by OpenSpeedTest
+    digest: 640e845c206deffd82b97857a31422283c2f12a3e4a6da5338a9e32429958295
+    home: https://openspeedtest.com/
+    icon: https://raw.githubusercontent.com/openspeedtest/Speed-Test/main/assets/images/icons/android-chrome-512x512.png
+    keywords:
+    - speedtest
+    - speed test
+    - openspeedtest
+    maintainers:
+    - email: support@openspeedtest.com
+      name: OpenSpeedTest™️
+    name: openspeedtest
+    sources:
+    - https://github.com/openspeedtest/Helm-chart
+    type: application
+    urls:
+    - https://openspeedtest.github.io/Helm-chart/openspeedtest-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-06-22T17:12:01.057253+05:30"
     description: SpeedTest by OpenSpeedTest
     digest: c70721b2069bcf927722e09996f2b7b69f8272adeaa6fe2768cd4274a933d4c5
@@ -22,4 +43,4 @@ entries:
     urls:
     - https://openspeedtest.github.io/Helm-chart/openspeedtest-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-22T17:12:01.056223+05:30"
+generated: "2023-02-16T16:23:28.201438+05:30"
